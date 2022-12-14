@@ -1,3 +1,4 @@
+ansible.cfg.local
 context/
 .history/
 .authfile
