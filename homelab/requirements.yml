@@ -1,0 +1,4 @@
+collections:
+  - community.general
+  - name: https://github.com/jwerak/ansible_collection_homelab.git
+    type: git
